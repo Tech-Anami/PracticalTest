@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.4.4)
+  - IQDropDownTextField (3.0.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Kingfisher (7.0.0)
+  - SmartToast (0.1.4)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQDropDownTextField
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - SmartToast
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQDropDownTextField
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - SmartToast
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  IQDropDownTextField: 77916c18f518ee9f3c62735775f1ba061d92fc58
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Kingfisher: 5efc54fec3980f92354898532e562cc17f31efb4
+  SmartToast: a75cbec24d342a6f0f6c866abc84f05e23d38296
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: f83d540cec05396f69eb7fbe61096fb34f9f5a67
+
+COCOAPODS: 1.11.2

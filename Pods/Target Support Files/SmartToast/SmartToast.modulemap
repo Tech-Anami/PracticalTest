@@ -1,0 +1,6 @@
+framework module SmartToast {
+  umbrella header "SmartToast-umbrella.h"
+
+  export *
+  module * { export * }
+}
